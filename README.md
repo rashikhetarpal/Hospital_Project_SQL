@@ -49,4 +49,4 @@ This project analyzes hospital operations data using SQL to derive insights rela
 
 ---
 **Rashi Khetarpal**
-
+Email: rashikhetarpal3@gmail.com
