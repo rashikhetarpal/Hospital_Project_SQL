@@ -1,4 +1,4 @@
-# 🏥 Hospital Management SQL Analytics Project
+# 🏥 Hospital Performance SQL Analytics Project
 
 ### 📌 Project Overview
 This project analyzes hospital operations data using SQL to derive insights related to patient flow, doctor performance, revenue generation, and patient behaviour for a multi-branch hospital using a relational SQL database with 5 interconnected tables: Patients, Doctors, Appointments, Treatments, and Billings. The objective of the project is to demonstrate strong SQL fundamentals along with business-oriented analytical thinking by answering real-world operational and financial questions faced by hospital management.
